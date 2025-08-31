@@ -1,0 +1,6 @@
+pluginManagement {}
+
+dependencyResolutionManagement {}
+
+rootProject.name = 'TipCalculator'
+include ':app'
